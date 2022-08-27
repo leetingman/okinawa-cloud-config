@@ -1,0 +1,10 @@
+spring:
+  datasource:
+    driver-class-name: org.mariadb.Driver
+    url: jdbc:mariadb://localhost:3306/okinawadb
+    username: root
+    password: '{cipher}AQBEwmmpehPTAJbCiC+injUSY8AT1NjnyarX1LOUEJopSZgY60hQa1NSGT9t0pc/wSeC6HtcCdMkwuUUXs4wdB2Bkm4/nacdHTFvfOAdfBkiYpGHG6C/Wq4QGVeQdUIa38uAT0eSZWRS/3h5W127//ZiuIU1r4slWmirJzR16OTUyjTDT3nXybq+Fll8Hv5tYR4F/EthUnbpJu4rcseMELrIS/SXA6slLwm1nPDlYg0y+LdOCOMZmfs9jomelL6I9wooFpgMxQtW51UtAuq0/wAnFDFSG6t1sSgk6iadc7OR8nzMEeps3GM74eu+ihB9gfIla2X5yjXEHsY4ReLyEHzFIMfnXRVQcNrzg5iDFdFR03aO6KJp6gzMPeqQCsTF9mo='
+
+gateway:
+  ip: 127.0.0.1
+
