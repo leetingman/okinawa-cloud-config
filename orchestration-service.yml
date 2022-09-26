@@ -1,0 +1,9 @@
+
+okinawa:
+  catalog: localhost:8000/catalog-service/
+  delivery: localhost:8000/delivery-service/
+  order: localhost:8000/order-service/
+  payment: localhost:8000/payment-service/
+
+gateway:
+  ip: 127.0.0.1
